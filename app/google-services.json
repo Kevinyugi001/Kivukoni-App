@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181138539990",
+    "project_id": "kivukoni-2427e",
+    "storage_bucket": "kivukoni-2427e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181138539990:android:8a9ec0a72eeb7054f4d077",
+        "android_client_info": {
+          "package_name": "com.example.kivukoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181138539990-1aq7fvtjn11f9ienssqej2qfp232ae0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53pfKD_gPp5Egn8z1AJ_jk8xiWRAbv4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181138539990-1aq7fvtjn11f9ienssqej2qfp232ae0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
